@@ -34,5 +34,12 @@ Days 1-5: Basics of JavaScript
 https://www.javascripttutorial.net/what-is-javascript/
 
 What is Javascript?
-Programming Language
-Interact with elements on a webpage
+- Programming Language
+- Interact with elements on a webpage (validating forms, interactive maps)
+
+- ECMAScript - core functionality
+- Document Object Model(DOM) - provides interfaces for interacting with elements on a webpage
+- Browser  Object Model(BOM) - provides the browser API for interacting with the browser
+
+- Javascript Engine - executes Javascript code(implemented as interpreters in the beginning)
+- Modern Javascript Engines are implemented as just-in-time compilers
