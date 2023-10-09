@@ -24,3 +24,15 @@ c. You can also add the number of the day, like day 1, day 2, etc.
 4. Maintain a GitHub repo for this challenge.
 5. Build projects (Will help you).
 
+Days 1-5: Basics of JavaScript
+- About JavaScript.
+- Its uses and role in web development.
+- Set up the development environment with a code editor.
+- Write your first "Hello world" program.😍
+
+- 2023-10-09: Basics of Javascript
+https://www.javascripttutorial.net/what-is-javascript/
+
+What is Javascript?
+Programming Language
+Interact with elements on a webpage
